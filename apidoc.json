@@ -1,0 +1,11 @@
+{
+  "name": "Laravel-API",
+  "description": "Documentation for RESTful web APIs",
+  "title": "Laravel-API Document",
+  "header": {
+    "filename": "layouts/header.md"
+  },
+  "template": {
+    "forceLanguage": "en"
+  }
+}

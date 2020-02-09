@@ -1,0 +1,15 @@
+{
+  "name": "laravel-api-apidoc",
+  "version": "1.0.0",
+  "description": "Documentation for RESTful web APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joyching/apidoc.git"
+  },
+  "author": "Joy Lin",
+  "license": "ISC"
+}
