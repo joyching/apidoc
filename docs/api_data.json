@@ -1,5 +1,33 @@
 [
   {
+    "success": {
+      "fields": {
+        "Success 200": [
+          {
+            "group": "Success 200",
+            "optional": false,
+            "field": "varname1",
+            "description": "<p>No type.</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "String",
+            "optional": false,
+            "field": "varname2",
+            "description": "<p>With type.</p>"
+          }
+        ]
+      }
+    },
+    "type": "",
+    "url": "",
+    "version": "0.0.0",
+    "filename": "./public/main.js",
+    "group": "/Users/joy/Documents/dockers/apidoc/public/main.js",
+    "groupTitle": "/Users/joy/Documents/dockers/apidoc/public/main.js",
+    "name": ""
+  },
+  {
     "type": "POST",
     "url": "/v1/login",
     "title": "用戶登入",
