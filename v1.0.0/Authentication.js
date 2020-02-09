@@ -8,12 +8,12 @@
  * @apiParam {string} email 電子郵箱
  * @apiParam {string} password 密碼
  *
- * @apiSuccess {string} access_token 核准的Token
- * @apiSuccess {string} token_type Token類型(目前僅為Bearer)
- * @apiSuccess {integer} expires_in Token有效秒數
- * @apiSuccess {array} user 使用者資訊
- * @apiSuccess {integer} user.id 使用者編號
- * @apiSuccess {string} user.email 使用者Email
+ * @apiSuccess {string}  access_token 核准的Token
+ * @apiSuccess {string}  token_type   Token類型(目前僅為Bearer)
+ * @apiSuccess {integer} expires_in   Token有效秒數
+ * @apiSuccess {array}   user         使用者資訊
+ * @apiSuccess {integer} user.id      使用者編號
+ * @apiSuccess {string}  user.email   使用者Email
  *
  * @apiSuccessExample Success-Response:
  * {
